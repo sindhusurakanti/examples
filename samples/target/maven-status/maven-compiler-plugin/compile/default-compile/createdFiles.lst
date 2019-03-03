@@ -1,0 +1,17 @@
+samples\Datasets.class
+samples\Pack.class
+samples\Sort.class
+samples\Transform.class
+samples\Json.class
+samples\Producer1.class
+samples\Latestoffset.class
+samples\Topic.class
+samples\Joins.class
+samples\Streamingcontext.class
+samples\Offset.class
+samples\Test.class
+samples\Transform$1.class
+samples\SimpleProducer.class
+samples\Dataframe.class
+samples\Topic$1.class
+samples\Transform$2.class
